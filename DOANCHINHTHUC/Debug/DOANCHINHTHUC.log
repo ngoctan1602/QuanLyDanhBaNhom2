@@ -1,0 +1,6 @@
+﻿  DOANCHINHTHUC.cpp
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(148,9): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(158,11): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(198): warning C4715: 'searchDB_sdt': not all control paths return a value
+  DOANCHINHTHUC.vcxproj -> D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\Debug\DOANCHINHTHUC.exe
